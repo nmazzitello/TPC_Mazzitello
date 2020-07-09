@@ -1,0 +1,112 @@
+﻿/*GENERALES*/
+body {
+    background-color: #95baa8; /*436f8a-f7fbe1-*/
+    font-family: 'Segoe UI';
+}
+
+p
+{
+    font-size: 22px;
+}
+
+/*ESPECIFICOS*/
+.barra {
+    height: 80px;
+    width: 100%;
+    background-color: #007bff;
+}
+.botonIngresar 
+{
+    margin-top: 13px;
+    margin-right: 30px;
+    height: 55px;
+    width: 140px;
+}
+
+.titulo
+{
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 16px;
+    font-size: 60px;
+}
+
+.titulo2 {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 50px;
+    font-size: 60px;
+}
+
+.cuadro1
+{
+    display:block;
+}
+
+.centrar
+{
+    text-align:center;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.centrar2 
+{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom:20px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.item 
+{
+    float: left;
+}
+.item1 
+{
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.item2
+{
+    margin-left: 200px;
+}
+.item3
+{
+    margin-left: 400px;
+}
+
+.sesionDe 
+{
+    margin-left: 20px;
+    margin-top: 40px;
+}
+
+.opc {
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+
+.recuadro {
+    border: 5px solid #007bff;
+    padding: 12px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.cajaTexto {
+    width:400px;
+    font-size:25px;
+}
+.label 
+{
+    font-size: 22px;
+}
+
+.botonn
+{
+    margin-top:20px;
+    margin-bottom:20px;
+}
